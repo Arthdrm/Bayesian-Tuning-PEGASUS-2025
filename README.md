@@ -50,7 +50,7 @@ The dataset consists of the following fields:
 * `summary`
 
 The final target label is constructed by combining multiple fields above.
-
+This dataset is derived from publicly available sources. Copyright remains with original publishers.
 
 ## 🚀 Getting Started
 
